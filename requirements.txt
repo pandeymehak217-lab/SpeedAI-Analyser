@@ -1,0 +1,9 @@
+
+opencv-python-headless>=4.8
+ultralytics>=8.0.0
+numpy>=1.23
+pandas>=2.0
+lapix>=0.1  
+scipy
+argparse
+

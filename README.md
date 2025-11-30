@@ -65,12 +65,3 @@ This project is released under the **MIT License**. You are free to use, modify,
 
 ---
 
-## 🚀 Future Upgrades
-
-We plan to implement the following features:
-
-* Real-time web dashboard (using the existing FastAPI backend).
-* Drag-and-drop video uploads (frontend integration).
-* Advanced analytics: heatmaps, object trajectories, and zone crossing data.
-* Multi-stream video support for complex environments.
-* Multiple data export formats (CSV, JSON, processed video).

@@ -31,11 +31,7 @@ To get the project running, follow these simple steps in your terminal:
     ```bash
     python main.py --video path_to_video.mp4
     ```
-4.  **(Optional) Run API Server:**
-    ```bash
-    python api_server.py
-    ```
-    *This starts the FastAPI backend, typically available at `http://127.0.0.1:8000`, ready for web integration.*
+
 
 ---
 
